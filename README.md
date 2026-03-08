@@ -7,7 +7,7 @@ This repository is **issue-only** and exists to collect bug reports, feature req
 ## Reporting Bugs
 
 Please file issues at:
-https://github.com/CommanderAI/commander-issues/issues
+https://github.com/CommanderApp/commander/issues
 
 When possible, include:
 - Steps to reproduce
