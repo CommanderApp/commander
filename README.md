@@ -1,6 +1,6 @@
 # Commander Issues
 
-Commander is a native macOS interface for Claude Code and Codex with built-in diffs, git workflow, and worktrees—prompt, review, and commit without context switching. Learn more at https://CommanderAI.app.
+Commander is a native macOS interface for Claude Code and Codex with built-in diffs, git workflow, and worktrees—prompt, review, and commit without context switching. Learn more at https://TheCommander.app.
 
 This repository is **issue-only** and exists to collect bug reports, feature requests, and feedback for Commander. The source code is not hosted here.
 
@@ -29,7 +29,7 @@ When possible, include:
 ## Download
 
 Get the latest build from the website:
-https://CommanderAI.app
+https://TheCommander.app
 
 ## Security
 
